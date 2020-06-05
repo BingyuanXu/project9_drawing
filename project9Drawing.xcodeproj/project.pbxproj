@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6362D2792489EBF00054AEF6 /* circle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6362D2782489EBF00054AEF6 /* circle.swift */; };
 		63FE82D22486850D007D8EF6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FE82D12486850D007D8EF6 /* AppDelegate.swift */; };
 		63FE82D42486850D007D8EF6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FE82D32486850D007D8EF6 /* SceneDelegate.swift */; };
 		63FE82D62486850D007D8EF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FE82D52486850D007D8EF6 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6362D2782489EBF00054AEF6 /* circle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = circle.swift; sourceTree = "<group>"; };
 		63FE82CE2486850D007D8EF6 /* project9Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project9Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63FE82D12486850D007D8EF6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63FE82D32486850D007D8EF6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				63FE82D12486850D007D8EF6 /* AppDelegate.swift */,
 				63FE82D32486850D007D8EF6 /* SceneDelegate.swift */,
 				63FE82D52486850D007D8EF6 /* ContentView.swift */,
+				6362D2782489EBF00054AEF6 /* circle.swift */,
 				63FE82D72486850E007D8EF6 /* Assets.xcassets */,
 				63FE82DC2486850E007D8EF6 /* LaunchScreen.storyboard */,
 				63FE82DF2486850E007D8EF6 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63FE82D22486850D007D8EF6 /* AppDelegate.swift in Sources */,
+				6362D2792489EBF00054AEF6 /* circle.swift in Sources */,
 				63FE82D42486850D007D8EF6 /* SceneDelegate.swift in Sources */,
 				63FE82D62486850D007D8EF6 /* ContentView.swift in Sources */,
 			);
